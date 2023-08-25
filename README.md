@@ -18,7 +18,7 @@ First setup system requirements using this blog post-> [blog_link](https://dev.t
 1. Clone the repo
 
 ```sh
-git clone git@github.com:shivamsoni00/mintgoldtoken.git
+git clone git@github.com:shivamsoni00/flipcpi.git
 ```
 
 2. Change into the project directory you'd like to run
