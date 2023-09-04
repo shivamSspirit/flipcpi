@@ -3,7 +3,7 @@
 
 ## How to Run this program
 
-First setup system requirements using this blog post-> [blog_link](https://dev.to/shivamsspirit/minting-fungible-tokens-in-solana-using-solidity-solang-programming-languagepart-2-4lbc)
+First setup system requirements using this blog post-> [blog_link](https://dev.to/shivamsspirit/minting-fungible-tokens-in-solana-using-solidity-solang-programming-languagepart-2-4lbc#:~:text=Setting%20up%20the,the%20project%20files.)
 
 ### Prerequisites
 
